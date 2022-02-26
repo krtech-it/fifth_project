@@ -142,10 +142,10 @@ EMAIL_HOST = 'smtp.yandex.ru'
 
 EMAIL_PORT = 587
 
-EMAIL_HOST_USER = 'RobotDashaVizaMira@yandex.ru'
+EMAIL_HOST_USER = ''
 
-EMAIL_HOST_PASSWORD = 'ppogzsjrqyewwxoe'
+EMAIL_HOST_PASSWORD = ''
 
-DEFAULT_FROM_EMAIL = 'RobotDashaVizaMira@yandex.ru'
+DEFAULT_FROM_EMAIL = ''
 
 EMAIL_USE_TLS = True
